@@ -81,6 +81,6 @@ The system is a web application built using React and Node.js.
 
 ![Home Page](https://github.com/nuwaninfo/kanban-board/blob/main/home_page.png)
 
-### Observation Form
+### Landing Page
 
-![Observation Form](https://github.com/nuwaninfo/kanban-board/blob/main/landing_page.png)
+![Landing Page](https://github.com/nuwaninfo/kanban-board/blob/main/landing_page.png)
