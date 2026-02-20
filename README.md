@@ -7,38 +7,38 @@ The system is a web application built using React and Node.js.
 
 ---
 
-## 2. Featurs
+## 2. Features
 
-### 3.1 Registration
+### 2.1 Registration
 
 - Non-authenticated users can register
 - Client-side and server-side validation is used
 - Check user already exists
 
-### 3.2 Login
+### 2.2 Login
 
 - Kanban board can be accessed only for authenticated users
 - Backend validation is used when authentication
 
-### 3.3 Authorization
+### 2.3 Authorization
 
 - JWT (JSON Web Token) authorization is used
 
-### 3.4 Add/Remove Columns
+### 2.4 Add/Remove Columns
 
 - Authenticated users can Add/Remove columns of their own board
 
-### 3.5 Add/Remove Cards
+### 2.5 Add/Remove Cards
 
 - Authenticated users can Add/Remove cards of their own board
 
-### 3.6 Logout
+### 2.6 Logout
 
 ---
 
-## 2.2 Technology Choices
+## 3. Technology Choices
 
-### 2.2.1 Front End
+### 3.1 Front End
 
 | Technology      | Description                                                                                             |
 | --------------- | ------------------------------------------------------------------------------------------------------- |
@@ -50,7 +50,7 @@ The system is a web application built using React and Node.js.
 | React Router    | Does client-side routing in a React app                                                                 |
 | validator.js    | Used to validate user input                                                                             |
 
-### 2.2.2 Back End
+### 3.2 Back End
 
 | Technology        | Description                                                                                             |
 | ----------------- | ------------------------------------------------------------------------------------------------------- |
@@ -74,5 +74,3 @@ The system is a web application built using React and Node.js.
 5. Open a browser and go to:  
    **http://localhost:3000/**
 6. Note: **MongoDB should be already installed** on the same machine
-
----
