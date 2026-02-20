@@ -74,3 +74,13 @@ The system is a web application built using React and Node.js.
 5. Open a browser and go to:  
    **http://localhost:3000/**
 6. Note: **MongoDB should be already installed** on the same machine
+
+## 🖼️ Screenshots
+
+### Home Page
+
+![Home Page](https://github.com/nuwaninfo/kanban-board/blob/main/home_page.png)
+
+### Observation Form
+
+![Observation Form](https://github.com/nuwaninfo/kanban-board/blob/main/landing_page.png)
